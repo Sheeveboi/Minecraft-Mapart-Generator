@@ -1,5 +1,6 @@
-# Minecraft-Mapart-Generator
+# Minecraft Mapart Generator
 Creates Litematica schematics for useage in minecraft mapart (dependencies included)
+currently only supports carpet blocks and non-staircase method maparts 
 
 # Config
 - 'input_filename' and 'output_png_filename' must include an image suffix
