@@ -1,0 +1,29 @@
+{
+	"input_filename"          : "input.png",
+	"output_png_filename"     : "output.png",
+	"output_schematic_name"   : "output",
+	"schematic_author"        : "None",
+	"schematic_description"   : "None",
+	"enable_schem_generation" : true,
+	"enable_dither"           : true,
+	"enable_color_swap"       : false,
+	"error_color"             : "magenta",
+	"color_swaps" : {
+		"white"      : "white",
+		"orange"     : "orange",
+		"magenta"    : "magenta",
+		"light_blue" : "light_blue",
+		"yellow"     : "yellow",
+		"lime"       : "lime",
+		"pink"       : "pink",
+		"gray"       : "gray",
+		"light_gray" : "light_gray",
+		"cyan"       : "cyan",
+		"purple"     : "purple",
+		"blue"       : "blue",
+		"brown"      : "brown",
+		"green"      : "green",
+		"red"        : "red",
+		"black"      : "black"
+	}
+}
